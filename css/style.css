@@ -20,8 +20,12 @@ header {
     margin-top: 0px;
     margin-bottom: 0px;
 }
+ul{
+    margin-left: 15px;
+}
 table{
     border-collapse: collapse;
+    
 }
 p{    
     padding: 10px 50px 10px 0px;
